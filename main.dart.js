@@ -62341,7 +62341,7 @@ return A.fE(A.a([this.c,A.cv(s,s,10),A.cc(this.d,s,s,A.an(a).RG.x,s,s)],t.p),B.K
 A.Et.prototype={
 G(a){return new A.dd(B.cp,a.R(t.w).f.a.a<=500?A.ey(A.a([A.fE(B.Eh,B.K,B.e0,B.a8)],t.p),B.K,B.H):A.fE(B.EK,B.K,B.e0,B.a8),null)}}
 A.Ev.prototype={
-G(a){var s=null,r=t.w,q=a.R(r).f.a.a<=500?2.5:3,p=A.ae0("assets/images/bg.jpeg",B.l_,s),o=A.ez(s,s,B.n,A.aD(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.a([A.cc("Welcome to my Amazing... \nWork Space!",s,s,a.R(r).f.a.a>=1024?A.an(a).RG.c.Gw(B.i,B.au):A.an(a).RG.f.Gw(B.i,B.au),s,s)],n)
+G(a){var s=null,r=t.w,q=a.R(r).f.a.a<=500?2.5:3,p=A.ae0("assets/images/bg.jpeg",B.l_,s),o=A.ez(s,s,B.n,A.aD(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.a([A.cc("Welcome to my Amazing \nWork Space!",s,s,a.R(r).f.a.a>=1024?A.an(a).RG.c.Gw(B.i,B.au):A.an(a).RG.f.Gw(B.i,B.au),s,s)],n)
 if(a.R(r).f.a.a<=700)m.push(A.cv(s,10,s))
 m.push(new A.Fm(s))
 m.push(A.cv(s,20,s))
